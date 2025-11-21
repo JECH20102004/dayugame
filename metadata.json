@@ -1,0 +1,9 @@
+{
+  "name": "Dayugame OS - AI Desktop Assistant",
+  "description": "A next-generation web-based desktop environment powered by Gemini. Features autonomous vision, voice interaction via Live API, deep reasoning, and multimodal content creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
